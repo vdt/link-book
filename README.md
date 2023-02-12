@@ -1,1 +1,2 @@
 # link-book
+- [Difference between Ingress, Ingress controller, and API gateway in Kubernetes](https://griggheo.medium.com/difference-between-ingress-ingress-controller-and-api-gateway-in-kubernetes-52d75c1854ec) - There is no shortage of articles explaining the concepts of Kubernetes Ingress controllers and Ingress objects. I want to add a quick explanation that helped me understand the difference between…
